@@ -21,7 +21,7 @@ src/
   * Components/
     - SubjectInput.jsx
     - Result.jsx
-  * data/
+  * utils/
     - rules.js
   * App.jsx
   * App.css
